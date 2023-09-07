@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hidayat zeb
 - 👀 I’m interested in Data Science and Data Anaytics job
-- 🌱 I’m currently learning Data Anaytics
+- 🌱 I’m currently Looking for Data Anaytics
 - 💞️ I’m looking to collaborate on Data Anaytics
 - 📫 You can reac me by hidayatzeb23@gmail.com
 
