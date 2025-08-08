@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Hidayat Zeb
 
-I'm a Data Analyst with 4+ years of experience turning raw data into clear insights and interactive dashboards. I specialize in **Power BI**, **SQL**, and **Python** and **Advance Excel** and enjoy solving business problems with data.
+I'm a Data Analyst with 4+ years of experience turning raw data into clear insights and interactive dashboards. I specialize in **Power BI**, **SQL**, **Python** and **Advance Excel** and enjoy solving business problems with data.
 
 ---
 
